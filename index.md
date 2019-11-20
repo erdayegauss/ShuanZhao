@@ -8,7 +8,7 @@ keywords: Quantum Computing, computational Physics, Machine Learning, Deep Learn
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/Shuan_Zhao.pdf">cv</a></li>
+          <li><a href="assets/Shuan_Zhao.pdf">cv</a></li>
           <li><a href="https://github.com/kbroman">github</a></li>
           <li><a href="https://kbroman.org/blog">blog</a></li>
           <li><a href="https://twitter.com/kwbroman">@kwbroman</a></li>
